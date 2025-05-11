@@ -21,28 +21,18 @@ A Flutter application that uses BLoC architecture and AI to generate stunning im
 - BLoC Pattern (flutter_bloc v8.1.3)
 
 **AI Integration:**
-- BLoC AI Image Generation API
+- Imagine.art API
 - Dio (v5.3.3) for API calls
 
-**Storage:**
-- Shared Preferences (v2.2.2) for local storage
-- Image Gallery Saver (v2.1.1) for saving images
-
-**UI/UX:**
-- Material Design 3
-- Lottie (v2.7.0) for animations
-- Cached Network Image (v3.3.0) for efficient image loading
 
 ## Screenshots
-| Generation Screen | Results | Gallery |
-|-------------------|---------|---------|
-| <img src="screenshots/prompt_screen.png" width="200"> | <img src="screenshots/result_screen.png" width="200"> | <img src="screenshots/gallery_screen.png" width="200"> |
+
+ <img src="https://github.com/JASLEENKAUR13/ImageGenerator/raw/master/WhatsApp%20Image%202025-05-11%20at%2013.41.00_38500b6a.jpg" width="200"> | <img src="https://github.com/JASLEENKAUR13/ImageGenerator/raw/master/WhatsApp%20Image%202025-05-11%20at%2014.03.51_13eca63a.jpg" width="200">  
 
 ## APK Download 📲
+Download APK from here 👇
 
-You can download the latest release APK from the [Releases section](https://github.com/JASLEENKAURI3/ImageGenerator/releases) or:
-
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/JASLEENKAURI3/ImageGenerator/releases/download/v1.0.0/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/JASLEENKAUR13/ImageGenerator/raw/master/app-release.apk)
 
 **Installation Guide:**
 1. Download the APK file
@@ -57,4 +47,4 @@ You can download the latest release APK from the [Releases section](https://gith
 - Dart SDK
 - Android Studio/VSCode with Flutter plugin
 
- Star my repo ❤️ 
+⭐ Star my repo ⭐
